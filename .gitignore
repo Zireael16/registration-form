@@ -1,0 +1,10 @@
+# Ignore SQLite database files
+*.db
+
+# Ignore the entire instance folder (Flask-specific)
+instance/
+
+# Other common ignores
+__pycache__/
+.env
+venv/
